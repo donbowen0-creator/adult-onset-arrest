@@ -1,5 +1,7 @@
 # Adult-onset offending and arrest in Add Health: analysis code
 
+[![DOI](https://zenodo.org/badge/1382627055.svg)](https://doi.org/10.5281/zenodo.22908607)
+
 R code that builds the analysis files and estimates every model in a study of adult-onset offending and first arrest, using the public-use data of the National Longitudinal Study of Adolescent to Adult Health (Add Health).
 
 **The data are not included here.** Add Health public-use data are distributed by ICPSR under terms that do not permit redistribution. To run this code you need the ICPSR 21600 public-use download, which is free once you register.
