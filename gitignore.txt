@@ -1,0 +1,26 @@
+# Add Health data are NOT redistributable under the ICPSR terms of use.
+# Everything in these folders stays on your machine.
+data_raw/
+data_work/
+*.dta
+*.sas7bdat
+*.rda
+*.rds
+ICPSR_21600*
+ICPSR_21600*.zip
+
+# Analysis output (add later if you choose to archive it)
+output/
+
+# R and RStudio working files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
+desktop.ini

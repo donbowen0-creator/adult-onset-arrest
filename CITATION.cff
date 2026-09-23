@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Adult-onset offending and arrest in Add Health: analysis code"
+message: "If you use this code, please cite it as below."
+type: software
+authors:
+  - family-names: Bowen
+    given-names: Donald
+    orcid: "https://orcid.org/0000-0003-3527-9462"
+    email: don@cemresearchlab.com
+    website: "https://www.cemresearchlab.com"
+repository-code: "https://github.com/donbowen0-creator/REPLACE-WITH-REPO-NAME"
+url: "https://www.cemresearchlab.com"
+abstract: >-
+  R code that builds the analysis files and estimates every model reported in a
+  study of adult-onset offending and first arrest, using the public-use data of
+  the National Longitudinal Study of Adolescent to Adult Health (Add Health),
+  ICPSR 21600. The data themselves are not included and must be obtained from
+  ICPSR.
+keywords:
+  - criminology
+  - adult-onset offending
+  - arrest
+  - survival analysis
+  - Add Health
+  - R
+license: MIT
+version: 1.0.0
+date-released: "2026-09-23"
