@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Adult-onset offending and arrest in Add Health: analysis code"
-message: "If you use this code, please cite it as below."
+message: "The Add Health public-use data analyzed by this code are distributed by ICPSR (study 21600) and are not included in this archive. Obtain them from ICPSR and set the file location at the top of 00_setup.R before running. Requires R 4.3 or later with the haven, survey, and ggplot2 packages."
 type: software
 authors:
   - family-names: Bowen
